@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/CreativeCore_Lighting/Scenes/TutorialScene_Lighting_Outdoor.unity
+    guid: f5be082c2893701468a82cc30ed723c0
   m_configObjects: {}
