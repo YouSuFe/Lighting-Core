@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_Disolve_Graph
+  m_Name: Shader Graphs_Disolve_Graph 1
   m_Shader: {fileID: -6465566751694194690, guid: 0d021a0d2b5c08245aaea967829df124, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -60,7 +60,8 @@ Material:
     - _QueueOffset: 0
     - _Simple_Value: 75
     - _Smoothness: 0.5
-    - _Speed: 2
+    - _Speed: 0.75
     m_Colors:
-    - _Disolve_Color: {r: 0.07689557, g: 0.1384844, b: 1.509434, a: 0}
+    - _Color: {r: 0.6117647, g: 0.6117647, b: 0.6117647, a: 0}
+    - _Disolve_Color: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
